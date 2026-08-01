@@ -1,4 +1,4 @@
 streamlit
 huggingface_hub
-llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/wheels/cpu
+https://github.com/abetlen/llama-cpp-python/releases/download/v0.2.90/llama_cpp_python-0.2.90-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 

@@ -1,3 +1,4 @@
 streamlit
-requests
+huggingface_hub
+llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/wheels/cpu
 
